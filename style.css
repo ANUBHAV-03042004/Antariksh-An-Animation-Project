@@ -4,7 +4,7 @@
 }
 .container {
     height: 100vh;
-    background-image: url('./img/space.png');
+    background-image: url('img/space.png');
     background-size: cover;
     /* background-color: rgb(169, 220, 245); */
      background-color: rgb(34, 52, 61); 
